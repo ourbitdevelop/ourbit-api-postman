@@ -67,4 +67,4 @@ Please refer to the API documentation to double check all the mandatory paramete
 
 
 ## My question isn't here
-If you don't find your answer here, please consult https://t.me/OURBITAPIsupport for similar questions from the API support telegram group or open an issue [here](https://github.com/ourbitdevelop/ourbit-api-postman/issues).
+If you don't find your answer here, please consult https://t.me/+4CqN3LWFlE40Yjll for similar questions from the API support telegram group or open an issue [here](https://github.com/ourbitdevelop/ourbit-api-postman/issues).

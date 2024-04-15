@@ -68,4 +68,4 @@
 
 
 ## 有疑问
-可以加入API support电报群：https://t.me/OURBITAPIsupport 咨询类似的问题，或者在此存储库提供 [`issue`](https://github.com/ourbitdevelop/ourbit-api-postman/issues).
+可以加入API support电报群：https://t.me/+4CqN3LWFlE40Yjll 咨询类似的问题，或者在此存储库提供 [`issue`](https://github.com/ourbitdevelop/ourbit-api-postman/issues).
